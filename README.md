@@ -55,7 +55,7 @@ $ cp index.html style.css script.js src/
 $ mv table.csv ./very-important-files
 # сначала указываем имя файла, который хотим переместить, потом путь — куда перемещаем 
 ```
-+ __cat__ (от англ. concatenate and print — «объединить и распечатать») <br> __Чтение текстовых файлов_
++ __cat__ (от англ. concatenate and print — «объединить и распечатать») <br> __Чтение текстовых файлов__
 ```BASH
 $ cat myfile.txt # распечатали содержимое файла myfile.txt
 file-content-1
